@@ -9,3 +9,9 @@ p{
     text-align: justify;
     padding: 5px;
 }
+h1{
+    background-color: yellow;
+    padding: 5px;
+    color: black;
+    text-align: center;
+}
