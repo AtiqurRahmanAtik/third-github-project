@@ -1,0 +1,11 @@
+h2{
+    background-color: aqua;
+    text-align: center;
+    padding: 10px;
+}
+p{
+    background-color: red;
+    width: 50%;
+    text-align: justify;
+    padding: 5px;
+}
